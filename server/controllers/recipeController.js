@@ -55,7 +55,7 @@ async function insertDymmyRecipeData(){
         "name": "Recipe Name Goes Here",
         "description": `Recipe Description Goes Here`,
         "email": "recipeemail@raddy.co.uk",
-        "ingredients": [
+        "ingridients": [
           "1 level teaspoon baking powder"
 ],
         "category": "American", 
